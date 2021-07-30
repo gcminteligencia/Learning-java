@@ -1,3 +1,3 @@
 public class ex002 {
-    System.out.priln(
+    System.out.priln()
 }
