@@ -1,3 +1,3 @@
 public class ex002 {
-    System.out.println("He");
+    System.out.println("Hel");
 }
